@@ -1,0 +1,10 @@
+D:\git\Project2\Projekat1\Projekat1\bin\Debug\Projekat1.exe.config
+D:\git\Project2\Projekat1\Projekat1\bin\Debug\Projekat1.exe
+D:\git\Project2\Projekat1\Projekat1\bin\Debug\Projekat1.pdb
+D:\git\Project2\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.AssemblyReference.cache
+D:\git\Project2\Projekat1\Projekat1\obj\Debug\Projekat1.Form1.resources
+D:\git\Project2\Projekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+D:\git\Project2\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.cache
+D:\git\Project2\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.CoreCompileInputs.cache
+D:\git\Project2\Projekat1\Projekat1\obj\Debug\Projekat1.exe
+D:\git\Project2\Projekat1\Projekat1\obj\Debug\Projekat1.pdb
